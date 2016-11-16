@@ -1,0 +1,8 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\bin\Debug\LongestCollatzSequence.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\bin\Debug\MoreLinq.dll
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\bin\Debug\MoreLinq.xml
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\obj\Debug\LongestCollatzSequence.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\obj\Debug\LongestCollatzSequence.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\LongestCollatzSequence\LongestCollatzSequence\obj\Debug\LongestCollatzSequence.pdb

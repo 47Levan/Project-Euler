@@ -1,0 +1,6 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\bin\Debug\Largest product in a grid.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\bin\Debug\Largest product in a grid.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\bin\Debug\Largest product in a grid.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\obj\Debug\Largest product in a grid.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\obj\Debug\Largest product in a grid.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest product in a grid\Largest product in a grid\obj\Debug\Largest product in a grid.pdb

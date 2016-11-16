@@ -1,0 +1,8 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\bin\Debug\Largest prime factor.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\bin\Debug\Largest prime factor.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\bin\Debug\Largest prime factor.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\obj\Debug\Largest prime factor.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\obj\Debug\Largest prime factor.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\obj\Debug\Largest prime factor.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\bin\Debug\MoreLinq.dll
+D:\Leva\Work\Informatika\CSharp\Project Euler\Largest prime factor\Largest prime factor\bin\Debug\MoreLinq.xml

@@ -1,0 +1,6 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\bin\Debug\Power digit sum.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\bin\Debug\Power digit sum.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\bin\Debug\Power digit sum.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\obj\Debug\Power digit sum.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\obj\Debug\Power digit sum.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Power digit sum\Power digit sum\obj\Debug\Power digit sum.pdb

@@ -1,0 +1,8 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\Highly divisible triangular number.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\Highly divisible triangular number.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\Highly divisible triangular number.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\Highly divisible triangular number.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\Highly divisible triangular number.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\obj\Debug\Highly divisible triangular number.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\MoreLinq.dll
+D:\Leva\Work\Informatika\CSharp\Project Euler\Highly divisible triangular number\Highly divisible triangular number\bin\Debug\MoreLinq.xml

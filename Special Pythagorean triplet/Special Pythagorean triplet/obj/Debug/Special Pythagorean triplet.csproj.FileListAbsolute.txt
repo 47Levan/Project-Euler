@@ -1,0 +1,8 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\MoreLinq.dll
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\MoreLinq.xml
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.pdb

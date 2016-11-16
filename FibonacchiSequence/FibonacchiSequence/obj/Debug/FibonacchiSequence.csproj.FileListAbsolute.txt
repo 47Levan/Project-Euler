@@ -1,0 +1,6 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\bin\Debug\FibonacchiSequence.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\bin\Debug\FibonacchiSequence.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\bin\Debug\FibonacchiSequence.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\obj\Debug\FibonacchiSequence.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\obj\Debug\FibonacchiSequence.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\FibonacchiSequence\FibonacchiSequence\obj\Debug\FibonacchiSequence.csprojResolveAssemblyReference.cache

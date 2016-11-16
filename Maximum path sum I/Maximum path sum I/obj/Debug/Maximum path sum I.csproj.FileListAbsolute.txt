@@ -1,0 +1,8 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\bin\Debug\Maximum path sum I.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\bin\Debug\Maximum path sum I.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\bin\Debug\Maximum path sum I.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\obj\Debug\Maximum path sum I.csprojResolveAssemblyReference.cache
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\obj\Debug\Maximum path sum I.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\obj\Debug\Maximum path sum I.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\bin\Debug\MoreLinq.dll
+D:\Leva\Work\Informatika\CSharp\Project Euler\Maximum path sum I\Maximum path sum I\bin\Debug\MoreLinq.xml

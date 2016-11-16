@@ -1,0 +1,5 @@
+D:\Leva\Work\Informatika\CSharp\Project Euler\Number letter counts\Number letter counts\bin\Debug\Number letter counts.exe.config
+D:\Leva\Work\Informatika\CSharp\Project Euler\Number letter counts\Number letter counts\bin\Debug\Number letter counts.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Number letter counts\Number letter counts\bin\Debug\Number letter counts.pdb
+D:\Leva\Work\Informatika\CSharp\Project Euler\Number letter counts\Number letter counts\obj\Debug\Number letter counts.exe
+D:\Leva\Work\Informatika\CSharp\Project Euler\Number letter counts\Number letter counts\obj\Debug\Number letter counts.pdb
